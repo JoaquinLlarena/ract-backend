@@ -1,0 +1,1 @@
+[{"id":2,"title":"titulo2","price":"4500","description":"godines","image":"img2","code":"abc124","stock":"10"},{"title":"titulo1","price":"1000","description":"god","image":"img1","code":"abc123","stock":"10","id":1}]
